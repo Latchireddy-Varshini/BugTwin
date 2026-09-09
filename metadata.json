@@ -1,0 +1,6 @@
+{
+  "name": "BugTwin - AI Digital Twin for Bug Reproduction",
+  "description": "AI-Powered Digital Twin for Bug Reproduction and Root-Cause Analysis across distributed microservices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
